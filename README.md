@@ -29,9 +29,6 @@ Uygulamanın Örnek Resimleri
 
 </p>
 
-
-<p align="center">
 Bana ulaşmak için:
 
 [www.ahmeteminsit.com](http://www.ahmeteminsit.com)
-</p>
