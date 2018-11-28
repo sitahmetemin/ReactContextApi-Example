@@ -1,6 +1,7 @@
 import React, {Component, Fragment} from "react";
 
 import {SehirContext} from "../Context/SehirContext";
+import {AutoCompleteComponent} from "./AutoCompleteComponent";
 
 
 export class List extends Component {
@@ -20,6 +21,7 @@ export class List extends Component {
             <Fragment>
                 <div className="jumbotron">
                     <div className="row">
+                        <AutoCompleteComponent/>
                         <div className="card-columns">
 
                             <SehirContext.Consumer>

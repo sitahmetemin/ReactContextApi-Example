@@ -1,15 +1,25 @@
 
 ## Nedir?
 
-Bu uygulamada Bootstrap ve React Context Api kullanılmış ve örnek olarak kullnılması amaçlanmıştır. 
+Bu uygulamada Bootstrap, Router ve  Context Api kullanıldı ve örnek olarak kullnılması amaçlanmıştır. 
 
-Kullanabilmek için: 
+Uygulamayı Kurabilmek için node modüllerinin kurulması gerelli. 
 
-### `npm i`
-komutunu kullanınız. Uygulamayı başlatmak için
+Node modüllerini kurmak için uygulamanın bulunduğu klasörün içinde terminal açıp aşağıdaki kodu giriniz: 
+
+### `npm install` ya da `npm i`
+Uygulamayı başlatmak için
 
 ### `npm start`
 komutunu kullanabilsiniz.
+
+To-Do:
+ - [X] React Router Kullanılacak 
+ - [X] React Context Api Kullanılacak 
+ - [ ] Search bar Entegre edilecek 
+
+<br/>
+
 
 <p align="center">
 Uygulamanın Örnek Resimleri
@@ -19,8 +29,9 @@ Uygulamanın Örnek Resimleri
 
 </p>
 
-<p align="right">
-Bana ulaşmak için 
+
+<p align="center">
+Bana ulaşmak için:
 
 [www.ahmeteminsit.com](http://www.ahmeteminsit.com)
 </p>
